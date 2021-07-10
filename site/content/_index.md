@@ -3,17 +3,20 @@ title: Depositario ciudadano de la Convención Constituyente de Chile
 subtitle: Convención.wiki
 image: img/convención_constituyente_chile_4-julio-2021.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Qué es la Convención Constitucional?
+  text: Tiene por misión redactar y aprobar la propuesta de texto de una Nueva
+    Constitución de la República para Chile, la cual deberá ser sometida a
+    Plebiscito Nacional para que la ciudadanía la apruebe o rechace. En esta
+    oportunidad el voto será obligatorio.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: COMPOSICIÓN DE ESCAÑOS
+  text: La Convención Constitucional está compuesta por 155 miembros que se
+    eligieron de acuerdo a los distritos establecidos para la elección
+    Diputados. De acuerdo con la Ley N° 21.216 de Reforma Constitucional, la
+    conformación de la Convención Constitucional tiene una representación
+    equitativa de hombres y mujeres. Así, como resultado hay 78 convencionales
+    hombres y 77 mujeres. El promedio de edad es de 45 años, con su miembro más
+    joven de 20 años.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
