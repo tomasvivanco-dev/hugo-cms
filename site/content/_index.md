@@ -12,11 +12,8 @@ intro:
   heading: COMPOSICIÓN DE ESCAÑOS
   text: La Convención Constitucional está compuesta por 155 miembros que se
     eligieron de acuerdo a los distritos establecidos para la elección
-    Diputados. De acuerdo con la Ley N° 21.216 de Reforma Constitucional, la
-    conformación de la Convención Constitucional tiene una representación
-    equitativa de hombres y mujeres. Así, como resultado hay 78 convencionales
-    hombres y 77 mujeres. El promedio de edad es de 45 años, con su miembro más
-    joven de 20 años.
+    Diputados.  El promedio de edad es de 45 años, con su miembro más joven de
+    20 años.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
